@@ -2,6 +2,8 @@
 
 Componente React que retorna número por extenso
 
+[![npm](https://img.shields.io/npm/v/react-input-por-extenso)](https://www.npmjs.com/package/react-input-por-extenso) ![NPM](https://img.shields.io/npm/l/react-input-por-extenso)
+
 ## Como instalar
 
 Abaixo as formas de como instalar essa biblioteca utilizando o npm ou yarn:
