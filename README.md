@@ -50,3 +50,9 @@ todas as propriedades de um input estão disponíveis.
 | Propriedade | Valor inicial | Tipo   | Descrição                     |
 | ----------- | ------------- | ------ | ----------------------------- |
 | tipoExtenso | normal        | string | Formato de extensão do número |
+
+<em>
+
+Biblioteca desenvolvida durante [aula prática](https://www.youtube.com/watch?v=5zgrL9XGASM) da [Digital Innovation One](https://digitalinnovation.one/)
+
+</em>
